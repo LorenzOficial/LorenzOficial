@@ -106,7 +106,7 @@ Me chamo Lorenzo Algarve, tenho 21 anos e moro atualmente em Santa Maria - RS. A
 <img 
       alt="GitHub Stats" 
       height="264"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqxd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzOficial&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 
 </p>
