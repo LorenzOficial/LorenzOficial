@@ -30,9 +30,10 @@ Me chamo Lorenzo Algarve, tenho 21 anos e moro atualmente em Santa Maria - RS. A
 
 ---
 
-### <p align=center> 🤖 Linguagens e Tecnologias </p>
+### <p align = "center"> 🤖 Linguagens e Tecnologias </p>
+
+<p align = "center">
 <img 
-    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
@@ -40,7 +41,6 @@ Me chamo Lorenzo Algarve, tenho 21 anos e moro atualmente em Santa Maria - RS. A
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
-    align="left" 
     alt="C" 
     title="C"
     width="30px" 
@@ -48,7 +48,6 @@ Me chamo Lorenzo Algarve, tenho 21 anos e moro atualmente em Santa Maria - RS. A
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -56,7 +55,6 @@ Me chamo Lorenzo Algarve, tenho 21 anos e moro atualmente em Santa Maria - RS. A
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
-    align="left" 
     alt="Lua"
     title="Lua" 
     width="30px" 
@@ -64,7 +62,6 @@ Me chamo Lorenzo Algarve, tenho 21 anos e moro atualmente em Santa Maria - RS. A
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
 />
 <img 
-    align="left" 
     alt="Azure"
     title="Azure" 
     width="30px" 
@@ -72,7 +69,6 @@ Me chamo Lorenzo Algarve, tenho 21 anos e moro atualmente em Santa Maria - RS. A
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
 <img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -80,7 +76,6 @@ Me chamo Lorenzo Algarve, tenho 21 anos e moro atualmente em Santa Maria - RS. A
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
-    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -88,31 +83,27 @@ Me chamo Lorenzo Algarve, tenho 21 anos e moro atualmente em Santa Maria - RS. A
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
     alt="CSS" 
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<br/>
-<br/>
-
-### <p align=center> 📊 Estatísticas </p>
-
-<p align=center>
-  <img 
-    alt="GitHub Stats" 
-    height="278" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LorenzOficial&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 </p>
 
-<p align=center>
+---
+
+### <p align = "center"> 📊 Estatísticas </p>
+
+<p align = "center">
+  <img 
+    alt="GitHub Stats" 
+    height="277"
+    src="https://github-readme-stats.vercel.app/api?username=LorenzOficial&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 <img 
       alt="GitHub Stats" 
-      height="200" 
+      height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzOficial&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 
