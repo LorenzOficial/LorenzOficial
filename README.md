@@ -30,7 +30,7 @@ Me chamo Lorenzo Algarve, tenho 21 anos e moro atualmente em Santa Maria - RS. A
 
 ---
 
-### <center> 🤖 Linguagens e Tecnologias
+### <p align=center> 🤖 Linguagens e Tecnologias </p>
 <img 
     align="left" 
     alt="Java" 
@@ -98,7 +98,7 @@ Me chamo Lorenzo Algarve, tenho 21 anos e moro atualmente em Santa Maria - RS. A
 <br/>
 <br/>
 
-### <center> 📊 Estatísticas
+### <p align=center> 📊 Estatísticas </p>
 
 <p align=center>
   <img 
